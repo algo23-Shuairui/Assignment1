@@ -56,16 +56,24 @@ Assignment1
 **5. 多种情况的结果**
 
 A:研报原时间段（2005-09-01至2012-09-01） N=20
-
+![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/A1.png)
+![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/A2.png)
+![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/A3.png)
 
 B:研报原时间段（2005-09-01至2012-09-01） N=14
-
+![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/B1.png)
+![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/B2.png)
+![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/B3.png)
 
 C:研报后至今（2012-09-01至2023-03-17） N=20
-
+![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/C1.png)
+![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/C2.png)
+![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/C3.png)
 
 D:全局（2005-01至今） N=20
-
+![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/D1.png)
+![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/D2.png)
+![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/D3.png)
 
 
 
