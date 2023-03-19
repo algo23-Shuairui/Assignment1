@@ -53,7 +53,7 @@ Assignment1
 年化标准差<br>
 年化夏普 
 
-**5. 多种情况的结果**
+**5. 多种情况的结果**(红色为沪深三百，黑色为TP值）
 
 A:研报原时间段（2005-09-01至2012-09-01） N=20
 ![image](https://github.com/algo23-Shuairui/Assignment1/blob/main/IMG/A1.png)
